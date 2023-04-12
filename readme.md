@@ -1,3 +1,8 @@
+# Información del proyecto
+
+[Ver toda la información del proyecto](https://github.com/Tiquillo/Tutoria/wiki)
+
+
 ## Diagrama de clases
 
 ```mermaid
